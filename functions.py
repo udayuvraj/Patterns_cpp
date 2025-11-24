@@ -123,3 +123,4 @@ avg_marks = calc_average(marks_list)
 print("Average marks:", avg_marks)
 print("Result (pass_mark=35):", classify_student(avg_marks))
 print("Result (pass_mark=40):", classify_student(avg_marks, pass_mark=40))
+  
